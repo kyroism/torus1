@@ -4,7 +4,7 @@ img {
 
 body {
     text-align: center;
-    font-family: 'Arial';
-    background-color: azure;
-    color: purple;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(44, 30, 43);
+    color: rgb(255, 238, 214);
 }
